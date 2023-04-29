@@ -1,0 +1,10 @@
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Maria da Silva', '123.456.789-00', 5000.00, TIMESTAMP WITH TIME ZONE '1995-03-25T15:00:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('João Souza', '987.654.321-00', 2500.00, TIMESTAMP WITH TIME ZONE '1990-10-10T09:30:00Z', 0);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Pedro Alves', '555.444.333-22', 8000.00, TIMESTAMP WITH TIME ZONE '1985-02-15T18:45:00Z', 1);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Fernanda Oliveira', '999.888.777-66', 4000.00, TIMESTAMP WITH TIME ZONE '2000-05-30T14:20:00Z', 3);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Roberto Santos', '444.333.222-11', 1500.00, TIMESTAMP WITH TIME ZONE '1988-09-02T11:10:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Juliana Costa', '777.666.555-44', 6500.00, TIMESTAMP WITH TIME ZONE '1975-07-20T08:05:00Z', 0);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Carlos Ramos', '222.111.000-99', 10000.00, TIMESTAMP WITH TIME ZONE '1993-12-01T13:30:00Z', 1);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Luana Pereira', '888.777.666-33', 3000.00, TIMESTAMP WITH TIME ZONE '2001-04-05T16:15:00Z', 2);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Lucas Vieira', '333.222.111-88', 7000.00, TIMESTAMP WITH TIME ZONE '1982-11-12T19:00:00Z', 1);
+INSERT INTO tb_clients (name, cpf, income, birth_date, children) VALUES ('Amanda Santos', '666.555.444-77', 4500.00, TIMESTAMP WITH TIME ZONE '1999-06-18T10:45:00Z', 0);
